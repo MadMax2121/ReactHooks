@@ -46,10 +46,10 @@ export default function Home() {
         </div>
       </div>
 
-      <div className=' w-56 h-64 flex flex-col items-center text-center space-y-6 border-2 border-black p-6 rounded-md'>
+      <div className='  h-64 flex flex-col items-center text-center space-y-6 border-2 border-black p-6 rounded-md'>
 
         <div className='font-bold'>useEffect()</div>
-        <p className='break-normal '>Updates the square of the number on the counter</p>
+        <p className='break-normal '>Update the square of the number on the counter</p>
         <div className='flex space-x-4 text-xl'>
           <div className=''>
             {count}

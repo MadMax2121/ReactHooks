@@ -3,9 +3,6 @@ import './globals.css'
 
 const inter = Inter({ subsets: ['latin'] })
 
-export const metadata = {
-  title: 'React Hooks Demo',
-}
 
 export default function RootLayout({ children }) {
   return (
